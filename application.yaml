@@ -1,3 +1,3 @@
-spring:
-profiles:
-active: prod
+service:
+  name: test service for dev-B (202135973 백지연)
+  description: Sample Project  
